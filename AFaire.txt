@@ -1,0 +1,3 @@
+Garder une partie dans un fichier, la reprendre
+Calculateur d'avantage de position
+Inverser l'échiquier pour les noirs
